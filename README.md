@@ -1,4 +1,4 @@
-# Cropyieldprediction course assignment
+# Cropyieldprediction
 
 File Description
 train.py: Model training and validation code. Note: This file does not need to be run for this assignment as we only provide test data.
