@@ -25,7 +25,10 @@ Please refer to the PDF documentation for detailed environment configuration ste
 
 Step 2: Data Preparation
 The data/folder contains sample datasets for initial testing. Use these to ensure the network runs properly.
-Download the complete test set from https://drive.google.com/drive/folders/1RBo98jJv8NvCmUDmnglEjIs2mteahIcb?usp=drive_link
+Download the complete test set from 
+https://drive.google.com/drive/folders/1NVrN8MkS1zBm-WzfYcbp9ncII_4QdOPd?usp=drive_link
+
+
 Place the downloaded data in the data/folder.
 
 Step 3: Model Testing
